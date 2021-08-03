@@ -12,6 +12,17 @@
 - 😄 Pronouns: He/ Him
 
 
+<center>
+	<h3>Prefer Technology </h3>
+</center>
+<ul list-style-type="none">
+	<li>
+		
+		PHP
+	</li>
+	<li> Python</li>
+	<li> Javascript </li>
+</ul>
 
 <span> You are  <span>	![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)	<span>visitor in my profile </span>
 
