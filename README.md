@@ -1,14 +1,23 @@
-### Hi, Its Foysal 💻👋
+<center>
+	<h2> Hi, I'm Md. Foysal 👋 Full Stack web developer 💻 </h2>
+</center>
 
-<h3> Some Face about me</h3>
-
+<center>
+	<h3> Some Fact about me </h3>
+</center>
+	
 - 🔭 I’m currently working on ... couple of interesting project including this 
 - 🌱 I’m currently learning ... so many things
 - 📫 How to reach me: You will find some social media link below to contact with me.
 - 😄 Pronouns: He/ Him
 
 
-<h3> Find me</h3>
+
+<span> You are  <span>	![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)	<span>visitor in my profile </span>
+
+<center>
+	<h2> If you need to contact with me</h2>
+</center>
 <center>
 	<a href="https://www.linkedin.com/in/sayalook/" target="_blank">
 		<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
