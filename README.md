@@ -36,7 +36,7 @@
 <a href="https://github.com/sayalok/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayalok&hide=prs&count_private=true&theme=dark&layout=compact" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/sayalok/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&layout=compact" />
 </a>
