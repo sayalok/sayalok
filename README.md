@@ -34,7 +34,7 @@
 </center>
 	
 <a href="https://github.com/sayalok/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayalok&hide=prs&count_private=true&theme=dark&layout=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayalok&hide=prs&count_private=true&theme=dark" />
 </a>
 &nbsp;
 <a href="https://github.com/sayalok/convoychat">
