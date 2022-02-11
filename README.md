@@ -30,6 +30,18 @@
 <span> You are  <span>	![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)	<span>visitor in my profile </span>
 
 <center>
+	<h3>Summary</h3>	
+</center>
+	
+<a href="https://github.com/sayalok/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayalok&hide=prs&count_private=true&theme=dark&layout=compact" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/sayalok/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&layout=compact" />
+</a>
+	
+<center>
 	<h2> If you need to contact with me</h2>
 </center>
 <center>
@@ -37,10 +49,10 @@
 		<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a> &nbsp;
 	<a href="mailto:sayalook.sl@gmail.com" style="text-decoration:none">
-		<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+		<img height="30" src ="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 	</a> &nbsp; 
 	<a href="https://twitter.com/sayalook" target="_blank">
-		<img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+		<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 	</a> &nbsp;
 </center>
 
