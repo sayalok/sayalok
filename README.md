@@ -1,6 +1,9 @@
-<center>
-	<h2> Hi, I'm Md. Foysal 👋 Full Stack web developer 💻 </h2>
-</center>
+<div>
+	<h1 align="center"> 
+		Hi, Its me, Foysal 👋 
+	</h1>
+	<p align="center"> Full Stack web developer 💻  </p>
+</div>
 
 <center>
 	<h3> Some Fact about me </h3>
@@ -27,10 +30,28 @@
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=sayalok&custom_title=Last%2030%20Days%20Activity&theme=material-palenight&hide_border=true)
 	
-![Faisal GitHub stats](https://github-readme-stats.vercel.app/api?username=sayalok&count_private=true&theme=dark&layout=compact&hide_border=true)
+<center>
+	<h3>GitHub stats </h3>
+</center>
+
+<div>
+
+<a>
+	<img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true" />
+</a>
+
+<a>
+	<img align="right" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=sayalok&theme=dark&hide_border=true" alt="sayalok" />
+</a>
+
+
+</div>
+
+ <br><br><br><br><br><br><br><br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&hide_border=true)
-	
+
+
 
 <center>
 	<h2>Follow me:</h2>
@@ -47,6 +68,8 @@
 </a>
 
 </center>
+
+
 
 <center>
 	<h2> If you need to contact with me</h2>
