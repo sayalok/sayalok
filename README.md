@@ -2,7 +2,7 @@
 	<h1 align="center"> 
 		Hi, Its me, Foysal 👋 
 	</h1>
-	<p align="center"> Full Stack web developer 💻  </p>
+	<p align="center"> Full Stack web developer 💻 | Bangladesh </p>
 </div>
 
 <center>
