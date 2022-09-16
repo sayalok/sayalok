@@ -81,9 +81,9 @@
 	<a href="mailto:sayalook.sl@gmail.com" style="text-decoration:none">
 		<img height="30" src ="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 	</a> &nbsp; 
-	<a href="https://twitter.com/sayalook" target="_blank">
+<!-- 	<a href="https://twitter.com/sayalook" target="_blank">
 		<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-	</a> &nbsp;
+	</a> &nbsp; -->
 	<a href="https://www.instagram.com/sayal00k/" target="_blank">
 		<img height="30" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a> &nbsp;
