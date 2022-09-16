@@ -26,18 +26,24 @@
 </center>
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=sayalok&custom_title=Last%2030%20Days%20Activity&theme=material-palenight&hide_border=true)
+	
+![Faisal GitHub stats](https://github-readme-stats.vercel.app/api?username=sayalok&count_private=true&theme=dark&layout=compact&hide_border=true)
 
-<span> You are  <span>	![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)	<span>visitor in my profile </span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&hide_border=true)
+	
 
 <center>
-	<h3>Summary</h3>	
+	<h2>Follow me:</h2>
 </center>
-	
-![Faisal GitHub stats](https://github-readme-stats.vercel.app/api?username=sayalok&hide=prs&count_private=true&theme=dark&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&layout=compact)
-
+<center>
 	
+[![Twitter Follow](https://img.shields.io/twitter/follow/sayalook?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsayalok&screen_name=sayalook)
+	
+[![GitHub followers](https://img.shields.io/github/followers/sayalok?style=social)](https://img.shields.io/github/followers/sayalok?style=for-the-badge)
+
+</center>
+
 <center>
 	<h2> If you need to contact with me</h2>
 </center>
@@ -57,6 +63,9 @@
 </center>
 
 <br>
+<br>
+
+<span>Thanks for visiting. You are  <span>![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)<span>visitor in my profile </span>
 
 <!--
 **sayalok/sayalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
