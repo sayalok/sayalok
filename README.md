@@ -51,6 +51,9 @@
 	<a href="https://twitter.com/sayalook" target="_blank">
 		<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 	</a> &nbsp;
+	<a href="https://www.instagram.com/sayal00k/" target="_blank">
+		<img height="30" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a> &nbsp;
 </center>
 
 <br>
