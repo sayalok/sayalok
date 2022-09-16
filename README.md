@@ -6,7 +6,7 @@
 </div>
 
 <center>
-	<h3> Some Fact about me </h3>
+	<h3>About me </h3>
 </center>
 	
 - 🔭 I’m currently working on ... couple of interesting Finance based project 
