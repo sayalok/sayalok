@@ -25,7 +25,7 @@
 	<h3>Contribution </h3>
 </center>
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayalok&theme=material-palenight&custom_title=Last%2030%20Days%20Activity)
+![activity graph](https://activity-graph.herokuapp.com/graph?username=sayalok&custom_title=Last%2030%20Days%20Activity&theme=material-palenight&hide_border=true)
 
 <span> You are  <span>	![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)	<span>visitor in my profile </span>
 
