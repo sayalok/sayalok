@@ -38,16 +38,12 @@
 
 <center>
 
-<a>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/sayalook?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsayalok&screen_name=sayalook)
-
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsayalok&screen_name=sayalook" target="_blank">
+	<img height="30" src="https://img.shields.io/twitter/follow/sayalook?color=1DA1F2&logo=twitter&style=for-the-badge"/>
 </a>
 
-<a>
-
-[![GitHub followers](https://img.shields.io/github/followers/sayalok?style=social)](https://github.com/sayalok)
-
+<a href="https://github.com/sayalok" target="_blank">
+	<img height="30" src="https://img.shields.io/github/followers/sayalok?style=social"/>
 </a>
 
 </center>
