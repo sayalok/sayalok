@@ -19,9 +19,9 @@
 	<h3>Prefer Technology </h3>
 </center>
 <ul list-style-type="none">
-	<li>PHP</li>
 	<li> Python</li>
 	<li> Javascript </li>
+	<li>PHP</li>
 </ul>
 
 <center>
