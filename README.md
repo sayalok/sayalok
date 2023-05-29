@@ -37,7 +37,7 @@
 <div>
 
 <a>
-	<img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true" />
+	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true" />
 </a>
 
 <a>
@@ -49,7 +49,7 @@
 
  <br><br><br><br><br><br><br><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&hide_border=true)
 
 
 
