@@ -28,8 +28,8 @@
 	<h3>Contribution </h3>
 </center>
 
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayalok&custom_title=Last%2030%20Days%20Activity&theme=vue&hide_border=true)
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayalok&custom_title=Last%2030%20Days%20Activity&theme=material-palenight&hide_border=true)
 <center>
 	<h3>GitHub stats </h3>
 </center>
