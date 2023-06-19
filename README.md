@@ -37,7 +37,7 @@
 <div>
 
 <a>
-	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
 <a>
