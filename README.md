@@ -9,9 +9,9 @@
 	<h3>About me </h3>
 </center>
 	
-- 🔭 I’m currently working on ... couple of interesting Finance based project 
+- 🔭 I’m currently working on ... a couple of interesting Finance based project 
 - 🌱 I’m currently learning ... so many things
-- 📫 How to reach me: You will find some social media link and my email below to contact with me.
+- 📫 How to reach me: You will find some social media links and my email below to contact me.
 - 😄 Pronouns: He/ Him
 
 
@@ -37,7 +37,7 @@
 <div>
 
 <a>
-	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true" />
+	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
 </a>
 
 <a>
