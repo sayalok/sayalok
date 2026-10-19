@@ -1,110 +1,72 @@
-<div>
-	<h1 align="center">
-		Hi, Its me, Foysal 👋 
-	</h1> 
-	<p align="center"> Full Stack web developer 💻 | Bangladesh </p>
-</div>
+<div align="center">
 
-<center>
-	<h3>About me </h3>
-</center>
-	
-- 🔭 I’m currently working on ... a couple of interesting Finance based project 
-- 🌱 I’m currently learning ... so many things
-- 📫 How to reach me: You will find some social media links and my email below to contact me.
-- 😄 Pronouns: He/ Him
+  <h1>Hi 👋, I'm Foysal</h1>
+  <p><strong>Software Engineer • Backend & Systems Specialist</strong></p>
+  <p>Crafting high-throughput backend platforms, scalable web applications, and modern API solutions from Bangladesh.</p>
 
-
-<center>
-	<h3>Prefer Technology </h3>
-</center>
-<ul list-style-type="none">
-	<li> Python</li>
-	<li> Javascript </li>
-	<li>PHP</li>
-</ul>
-
-<center>
-	<h3>Contribution </h3>
-</center>
-
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayalok&custom_title=Last%2030%20Days%20Activity&theme=vue&hide_border=true)
-
-<center>
-	<h3>GitHub stats </h3>
-</center>
-
-<div>
-
-<a>
-	<img align="left" width=45% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sayalok&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a>
-	<img align="right" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=sayalok&theme=dark&hide_border=true" alt="sayalok" />
-</a>
-
+  <p>
+    <a href="https://www.linkedin.com/in/se-faisal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sayalook.sl@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://x.com/sayalook"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+    <a href="https://instagram.com/sayal00k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 
 </div>
 
- <br><br><br><br><br><br><br><br><br>
+---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sayalok&count_private=true&theme=dark&hide_border=true)
+## About Me
 
+* **Core Architecture:** Specialized in Enterprise PHP (Laravel), Python, REST APIs, and SQL Optimization.
+* **Systems & Tooling:** Deep exposure to Node.js internals, background workers, and edge execution workflows.
+* **Active Projects:** Financial management applications, B2B web platforms, and computer vision integration.
+* **Collaborations:** Available for full-stack engineering roles, technical consulting, and API integrations.
 
+---
 
-<center>
-	<h2>Follow me:</h2>
-</center>
+## Tech Stack & Ecosystem
 
-<center>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,py,js,mysql,postgres,redis,docker,linux,git,github,postman&perline=6" alt="Tech Stack Icons" />
+  </a>
+</div>
 
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsayalok&screen_name=sayalook" target="_blank">
-	<img height="30" src="https://img.shields.io/twitter/follow/sayalook?color=1DA1F2&logo=twitter&style=for-the-badge"/>
-</a>
+---
 
-<a href="https://github.com/sayalok" target="_blank">
-	<img height="30" src="https://img.shields.io/github/followers/sayalok?style=social"/>
-</a>
+## Featured Work & Focus Areas
 
-</center>
+| Project / Focus Area | Tech Stack | Status |
+| :--- | :--- | :---: |
+| **Fintech & Financial Systems** | `Laravel` `MySQL` `REST APIs` | Active |
+| **Edge AI & Defect Detection** | `PyTorch` `YOLOv8` `Python` | R&D |
+| **B2B Web Platforms** | `PHP` `JavaScript` `Docker` | Production |
 
+---
 
+## Engineering Metrics & Activity
 
-<center>
-	<h2> If you need to contact with me</h2>
-</center>
-<center>
-	<a href="https://www.linkedin.com/in/sayalook/" target="_blank">
-		<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	</a> &nbsp;
-	<a href="mailto:sayalook.sl@gmail.com" style="text-decoration:none">
-		<img height="30" src ="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
-	</a> &nbsp; 
-<!-- 	<a href="https://twitter.com/sayalook" target="_blank">
-		<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-	</a> &nbsp; -->
-	<a href="https://www.instagram.com/sayal00k/" target="_blank">
-		<img height="30" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-	</a> &nbsp;
-</center>
+<div align="center">
 
-<br>
-<br>
+  <p>
+    <img src="https://img.shields.io/badge/Experience-Nearly_9_Years-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/Contributions-1%2C790%2B-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Focus-Backend_%26_APIs-7A22CE?style=for-the-badge&logo=laravel&logoColor=white" alt="Focus" />
+  </p>
 
-<span>Thanks for visiting. You are  <span>![Visitor Count](https://profile-counter.glitch.me/{sayalok}/count.svg)<span>visitor in my profile </span>
+  <br>
 
-<!--
-**sayalok/sayalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://ghchart.rshah.org/0A66C2/sayalok" alt="Foysal's GitHub Contributions Grid" width="100%" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayalok&theme=dark&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <p>Profile Views</p>
+  <img src="https://komarev.com/ghpvc/?username=sayalok&color=0077b5&style=for-the-badge" alt="Visitor Counter" />
+</div>
